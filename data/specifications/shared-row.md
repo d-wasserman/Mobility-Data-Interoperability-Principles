@@ -24,7 +24,7 @@ principles:
     evidence_url: https://github.com/d-wasserman/shared-row/tree/main/specification
   independent_maintainer:
     verdict: not_compliant
-    rationale: No (individual)
+    rationale: No  - Maintained by an individual with no clear business interest, but open to transferring maintenance to an independent organization
     evidence_url: https://github.com/d-wasserman
   structured_releases:
     verdict: compliant
